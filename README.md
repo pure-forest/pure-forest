@@ -1,5 +1,5 @@
 # Hi 👋
-I am Yutong. I am currently learning coding in *** Hive 🐝 Helsinki ***. \
+I am Yutong. I am currently learning coding in ***Hive 🐝 Helsinki***. \
 You can learn more about Hive via this link [Hive Heslink](https://www.hive.fi/en/)\
 \
 Before joining Hive Helsinki, I worked as a software product manager for 6 years, specializing in SaaS products and B2B products.  Feel free to connect with me through my LinkedIn  [my profile](www.linkedin.com/in/yutongdeng)\
